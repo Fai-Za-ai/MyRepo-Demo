@@ -1,4 +1,4 @@
 # MyRepo-Demo
 This is my first git-repository
 <br>
-Author: Faiza
+Author: FaiZa
